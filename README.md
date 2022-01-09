@@ -1,5 +1,3 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
 # Hi there 👋
 
 I'm a Romanov Roman, Backend Developer focusing on Golang and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
