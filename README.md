@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Romanov Roman, Backend Developer focusing on Golang and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a Romanov Roman, Backend Developer focusing on Golang and PHP. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007999457996)](https://www.facebook.com/profile.php?id=100007999457996)
