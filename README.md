@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="vue" width="25" height="25" />  
 </p>
 
-### Github stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=romaxa83&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="romaxa83">
+<!-- ### Github stats -->
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=romaxa83&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="romaxa83"> -->
