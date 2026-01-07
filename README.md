@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="25" height="25" />
+<img src="https://cdn.svgporn.com/logos/fastapi.svg" alt="fastapi" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
